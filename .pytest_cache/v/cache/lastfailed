@@ -1,5 +1,0 @@
-{
-  "hangman/__init__.py": true,
-  "tests/hangman.py": true,
-  "tests/tests.py": true
-}
