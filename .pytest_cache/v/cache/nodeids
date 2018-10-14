@@ -5,9 +5,9 @@
   "hangman/__init__.py",
   "hangman/__init__.py",
   "hangman/__init__.py",
-  "tests/__init__.py",
-  "tests/__init__.py",
-  "tests/__init__.py",
-  "tests/tests.py",
-  "tests/tests.py"
+  "tests/test_hangman.py",
+  "tests/test_hangman.py",
+  "tests/test_hangman.py::test_check_letter",
+  "tests/test_hangman.py::test_reveal_letter",
+  "tests/test_hangman.py::test_print_result"
 ]
