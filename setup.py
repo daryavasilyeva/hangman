@@ -12,7 +12,6 @@ setup(
     url="https://github.com/daryavasilyeva/hangman",
     license="MIT",
     packages=[
-        "hangman",
     ],
     install_requires=[
     ],
