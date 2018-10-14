@@ -1,8 +1,5 @@
 # Hangman
 
-[![Build Status][travis-badge]][travis-url]
-[![Coverage][coverage-image]][coverage-url]
-
 This is second homework for course of Principles, Practices, and Patterns of Software Design. 
 
 The programm is a game with simple rules:
