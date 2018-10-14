@@ -1,5 +1,7 @@
 # Hangman
 
+[![codecov](https://codecov.io/gh/daryavasilyeva/hangman/branch/master/graph/badge.svg)](https://codecov.io/gh/daryavasilyeva/hangman)
+
 This is second homework for course of Principles, Practices, and Patterns of Software Design. 
 
 The programm is a game with simple rules:
