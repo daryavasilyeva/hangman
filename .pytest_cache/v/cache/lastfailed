@@ -1,0 +1,4 @@
+{
+  "hangman/__init__.py": true,
+  "tests/tests.py": true
+}

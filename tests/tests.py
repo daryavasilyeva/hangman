@@ -6,7 +6,8 @@ def test_check_letter():
 
 
 def test_reveal_letter():
-    assert reveal_letter("test", ['*', 'e', 's', '*'], "t") == ['t', 'e', 's', 't']
+    assert reveal_letter("test", ['*', 'e', 's', '*'], "t") \
+           == ['t', 'e', 's', 't']
 
 
 def test_print_result():
