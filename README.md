@@ -1,6 +1,7 @@
 # Hangman
 
 [![codecov](https://codecov.io/gh/daryavasilyeva/hangman/branch/master/graph/badge.svg)](https://codecov.io/gh/daryavasilyeva/hangman)
+[![Build Status](https://travis-ci.org/daryavasilyeva/hangman.svg?branch=master)](https://travis-ci.org/daryavasilyeva/hangman)
 
 This is second homework for course of Principles, Practices, and Patterns of Software Design. 
 
