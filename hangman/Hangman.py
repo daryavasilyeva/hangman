@@ -26,9 +26,10 @@ def print_result(error, word):
     if error == 5:
         print("You lost!")
         print("Real word is:", word)
-
+        return 0
     else:
         print("You won!")
+        return 1
 
 
 def game(word):
