@@ -25,7 +25,6 @@ setup(
     ],
     tests_require=[
         "pytest",
-        "pylint",
         "pycodestyle",
         "pep257",
     ],
